@@ -1,16 +1,16 @@
 {
-    "group": "ad_astra",
-    "type": "ad_astra:hammering",
-    "ingredients": [
-      {
-        "item": "ad_astra:hammer"
-      },
-      {
-        "item": "minecraft:iron_ingot"
-      }
-    ],
-    "result": {
-      "item": "create:iron_sheet",
-      "count": 1
+  "group": "ad_astra",
+  "type": "ad_astra:hammering",
+  "ingredients": [
+    {
+      "item": "ad_astra:hammer"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     }
+  ],
+  "result": {
+    "item": "create:iron_sheet",
+    "count": 1
   }
+}

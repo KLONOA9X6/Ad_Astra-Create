@@ -1,0 +1,11 @@
+{
+    "type": "ad_astra:compressing",
+    "input": {
+        "item": "create:brass_ingot"
+    },
+    "output": {
+        "id": "create:brass_sheet",
+        "count": 1
+    },
+    "cookTime": 200
+}
