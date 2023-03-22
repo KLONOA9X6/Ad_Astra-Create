@@ -1,0 +1,15 @@
+{
+    "type": "ad_astra:hammering",
+    "ingredients": [
+        {
+            "item": "ad_astra:hammer"
+        },
+        {
+            "item": "create:brass_ingot"
+        }
+    ],
+    "result": {
+        "item": "create:brass_sheet",
+        "count": 1
+    }
+}

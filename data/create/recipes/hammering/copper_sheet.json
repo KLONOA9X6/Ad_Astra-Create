@@ -1,0 +1,15 @@
+{
+    "type": "ad_astra:hammering",
+    "ingredients": [
+        {
+            "item": "ad_astra:hammer"
+        },
+        {
+            "item": "minecraft:copper_ingot"
+        }
+    ],
+    "result": {
+        "item": "create:copper_sheet",
+        "count": 1
+    }
+}
