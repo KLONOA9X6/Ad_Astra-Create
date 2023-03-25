@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "ad_astra:desh_block"
+        }
+    ],
+    "processingTime": 250,
+    "results": [
+        {
+            "chance": 0.25,
+            "item": "ad_astra:desh_nugget",
+            "count": 4
+        }
+    ]
+}

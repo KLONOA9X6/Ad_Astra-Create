@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "ad_astra:desh_plating",
+        "ad_astra:desh_plating_stairs",
+        "ad_astra:desh_plating_slab",
+        "ad_astra:desh_pillar"
+    ]
+}
